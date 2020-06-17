@@ -5,8 +5,7 @@
 using namespace std;
  
 int used[1001][1001];
-int n;
-int m;
+int n,m;
 int arr[1001][1001];
 int dx[] = {1,0,-1,0};
 int dy[] = {0,1,0,-1};
